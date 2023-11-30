@@ -1,5 +1,7 @@
 # 4bitalu
 
+[digikey BOM](https://www.digikey.com/en/mylists/list/D8YFZJU3KQ)
+
 ## Background
 
 This project is derived from my ECPE 2504 class that I took at Virginia Tech. The project was submitted on March 18, 1998.
