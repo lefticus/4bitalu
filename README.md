@@ -71,5 +71,29 @@ I decided 25 years later to try my hand at PCB design and to actually build this
 These project files are all in KiCad format, if anyone wishes to fork / build their own / test this stuff out too
 
 
+## Images
 
+## Rev 1
+
+Rev 1 Empty
+
+![](Rev1Empty.jpg)
+
+Rev 1 Front
+
+![](Rev1Front.jpg)
+
+Rev 1 Back with bodge wires
+
+![](Rev1Back.jpg)
+
+## Rev 2
+
+Rev 2 Empty
+
+![](Rev2Empty.jpg)
+
+Rev 2 Running!
+
+![](Rev2Running.jpg)
 
